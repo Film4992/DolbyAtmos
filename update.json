@@ -1,5 +1,6 @@
 {
   "version": "v3.5.1.28",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Film4992/DolbyAtmos/archive/cc357a394dd07fbc1f1d70229b16f9f477697a7a.zip",
+  "versionCode": 28,
+  "zipUrl": "https://github.com/Film4992/DolbyAtmos/raw/DolbyAtmosversionupdate/DolbyAtmosversionv3.5.1.28.zip",
+  "changelog": "https://raw.githubusercontent.com/Film4992/DolbyAtmos/DolbyAtmosversionupdate/build.md"
 }
