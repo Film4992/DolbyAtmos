@@ -1,7 +1,8 @@
 update sounds****
+fix bootloop
 DolbyAtmos
-version=v3.5.1.29
-versionCode=28
+version=v3.5.1.30
+versionCode=29
 description=ported  for any Android 9-14
 
 ## Tested on
