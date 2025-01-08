@@ -2,7 +2,7 @@ update sounds****
 fix bootloop
 DolbyAtmos
 version=1.0_filmfix
-versionCode=91
+versionCode=92
 description=ported  for any Android 4.1.1-14
 เอฟเฟกต์เสียงประเภท EQ ทั่วโลกที่พอร์ตโดย filmfix ปรับปรุงใหม่สำหรับ Android 4.1.1 ขึ้นไป ขับเคลื่อนโดย Dolby Surround (DS)
 ## Tested on
