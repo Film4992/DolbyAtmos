@@ -11,4 +11,6 @@ description=ported  for any Android 4.1.1-14
 - Android 11 DotOS ROM
 - Android 12 AncientOS ROM
 - Android 13 CrDroid ROM & AlphaDroid ROM
-- Android 14 LineageOS ROM
+- Android 14 hyperos 1.0
+- Android 15 hyperos 2.0
+- Android 16 hyperos 3.0 Beta
